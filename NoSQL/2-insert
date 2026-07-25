@@ -1,4 +1,4 @@
-#!/usr/bin/env mongo
-// Inserts a document in the collection school
-
-db.school.insert({ name: "Holberton school" });
+// 2-insert
+db.school.insert({
+	name: "Holberton school"
+})

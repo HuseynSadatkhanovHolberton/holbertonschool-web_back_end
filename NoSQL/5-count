@@ -1,4 +1,2 @@
-#!/usr/bin/env mongo
-// Displays the number of documents in the collection school
-
-db.school.count();
+// 5-count
+db.school.count()
